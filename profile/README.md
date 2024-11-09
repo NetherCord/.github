@@ -4,7 +4,7 @@
     <a href="https://github.com/NetherCord?tab=followers">
         <img src="https://img.shields.io/github/followers/NetherCord" alt="GitHub Followers"/>
     </a>
-    <a href="https://github.com/dscss1">
+    <a href="https://github.com/NetherCord">
         <img src="https://komarev.com/ghpvc/?username=NetherCord&style=flat-square" alt="Profile Views"/>
     </a>
 </div>
