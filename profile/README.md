@@ -19,6 +19,9 @@
     <a href="https://discord.com/users/1301517850921664547" target="_blank">
         <img src="https://lanyard.cnrad.dev/api/1301517850921664547?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"/>
     </a>
+    <a href="https://discord.com/users/1301517850921664547" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/1301517850921664547?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"/>
+    </a>
     <a href="https://discord.com/users/1275912726606123009" target="_blank">
         <img src="https://lanyard.cnrad.dev/api/1275912726606123009?animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence"/>
     </a>
