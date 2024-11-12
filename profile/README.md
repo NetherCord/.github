@@ -17,17 +17,17 @@
 <div id="profile">
     <h3> Developers </h3>
     <a href="https://discord.com/users/1301517850921664547" target="_blank">
-        <img src="https://lanyard.kyrie25.dev/api/1301517850921664547?animated=false&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
+        <img src="https://lanyard.kyrie25.dev/api/1301517850921664547?animated=false&useDisplayName=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
     </a>
     <a href="https://discord.com/users/390102465586003978" target="_blank">
-        <img src="https://lanyard.kyrie25.dev/api/390102465586003978?animated=false&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
+        <img src="https://lanyard.kyrie25.dev/api/390102465586003978?animated=false&useDisplayName=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
     </a>
     <a href="https://discord.com/users/1275912726606123009" target="_blank">
-        <img src="https://lanyard.kyrie25.dev/api/1275912726606123009?animated=false&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
+        <img src="https://lanyard.kyrie25.dev/api/1275912726606123009?animated=false&useDisplayName=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
     </a>
      <h3> Admins </h3>
         <a href="https://discord.com/users/718716985042665532" target="_blank">
-                <img src="https://lanyard.kyrie25.dev/api/718716985042665532?animated=false&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
+                <img src="https://lanyard.kyrie25.dev/api/718716985042665532?animated=false&useDisplayName=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
         </a>
     </div>
     
