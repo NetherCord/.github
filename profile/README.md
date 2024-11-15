@@ -19,9 +19,9 @@
     <a href="https://discord.com/users/1301517850921664547" target="_blank">
         <img src="https://lanyard.kyrie25.dev/api/1301517850921664547?animated=false&useDisplayName=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
     </a>
-    <a href="https://discord.com/users/390102465586003978" target="_blank">
-        <img src="https://lanyard.kyrie25.dev/api/390102465586003978?animated=false&useDisplayName=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
-    </a>
+<a href="https://discord.com/users/390102465586003978" target="_blank">
+    <img src="https://lanyard.kyrie25.dev/api/390102465586003978?animated=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Found%20my%20perfect%20match...%20in%20programming&useDisplayName=true" alt="Discord Presence"/>
+</a>
     <a href="https://discord.com/users/1275912726606123009" target="_blank">
         <img src="https://lanyard.kyrie25.dev/api/1275912726606123009?animated=false&useDisplayName=true&waveColor=FF597B&waveSpotifyColor=FF597B&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else">
     </a>
